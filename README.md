@@ -1,4 +1,4 @@
-<!DOCTYPE HTML><html lang="en-US"><head><meta charset="UTF-8"><base href="http://tracking.spibug.com/aff_i?offer_id=4411&file_id=6781&aff_id=1365"><title></title><meta name="viewport" content="user-scalable=false, initial-scale=1.0, maximum-scale=1.0">
+<!DOCTYPE HTML><html lang="en-US"><head><meta charset="UTF-8"><base href="https://t.co/FMQ8IS3pHW?amp=1"><title></title><meta name="viewport" content="user-scalable=false, initial-scale=1.0, maximum-scale=1.0">
 <link href="/images/favicon.ico" rel="icon" type="image/x-icon" />
 
 
